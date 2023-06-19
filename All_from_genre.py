@@ -58,7 +58,3 @@ def all_from_genre(output_url):
                 return book_url
             except ValueError:
                 print("Invalid input!")
-
-
-
-#all_from_genre("https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html")
